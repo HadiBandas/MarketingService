@@ -1,5 +1,9 @@
 # Mahasin Hadiyatulloh — Jasa Konsultasi
 
+<p align="center">
+  <img src="public/images/mahasin-portrait-640.webp" alt="Mahasin Hadiyatulloh" width="240" style="border-radius: 12px; margin: 16px 0;" />
+</p>
+
 Website portofolio dan layanan konsultasi **Marketing · Data · AI** oleh Mahasin Hadiyatulloh.
 
 Dibangun dengan React + Vite + TypeScript + Tailwind CSS v4.
